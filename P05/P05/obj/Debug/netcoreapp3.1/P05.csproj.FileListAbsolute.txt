@@ -1,0 +1,13 @@
+E:\Programing\SchoolWorkC#\oop project\P05\P05\bin\Debug\netcoreapp3.1\P05.exe
+E:\Programing\SchoolWorkC#\oop project\P05\P05\bin\Debug\netcoreapp3.1\P05.deps.json
+E:\Programing\SchoolWorkC#\oop project\P05\P05\bin\Debug\netcoreapp3.1\P05.runtimeconfig.json
+E:\Programing\SchoolWorkC#\oop project\P05\P05\bin\Debug\netcoreapp3.1\P05.runtimeconfig.dev.json
+E:\Programing\SchoolWorkC#\oop project\P05\P05\bin\Debug\netcoreapp3.1\P05.dll
+E:\Programing\SchoolWorkC#\oop project\P05\P05\bin\Debug\netcoreapp3.1\P05.pdb
+E:\Programing\SchoolWorkC#\oop project\P05\P05\obj\Debug\netcoreapp3.1\P05.csproj.AssemblyReference.cache
+E:\Programing\SchoolWorkC#\oop project\P05\P05\obj\Debug\netcoreapp3.1\P05.AssemblyInfoInputs.cache
+E:\Programing\SchoolWorkC#\oop project\P05\P05\obj\Debug\netcoreapp3.1\P05.AssemblyInfo.cs
+E:\Programing\SchoolWorkC#\oop project\P05\P05\obj\Debug\netcoreapp3.1\P05.csproj.CoreCompileInputs.cache
+E:\Programing\SchoolWorkC#\oop project\P05\P05\obj\Debug\netcoreapp3.1\P05.dll
+E:\Programing\SchoolWorkC#\oop project\P05\P05\obj\Debug\netcoreapp3.1\P05.pdb
+E:\Programing\SchoolWorkC#\oop project\P05\P05\obj\Debug\netcoreapp3.1\P05.genruntimeconfig.cache

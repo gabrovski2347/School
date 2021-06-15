@@ -1,0 +1,12 @@
+E:\Programing\SchoolWorkC#\oop project\P07\P07\bin\Debug\netcoreapp3.1\P07.exe
+E:\Programing\SchoolWorkC#\oop project\P07\P07\bin\Debug\netcoreapp3.1\P07.deps.json
+E:\Programing\SchoolWorkC#\oop project\P07\P07\bin\Debug\netcoreapp3.1\P07.runtimeconfig.json
+E:\Programing\SchoolWorkC#\oop project\P07\P07\bin\Debug\netcoreapp3.1\P07.runtimeconfig.dev.json
+E:\Programing\SchoolWorkC#\oop project\P07\P07\bin\Debug\netcoreapp3.1\P07.dll
+E:\Programing\SchoolWorkC#\oop project\P07\P07\bin\Debug\netcoreapp3.1\P07.pdb
+E:\Programing\SchoolWorkC#\oop project\P07\P07\obj\Debug\netcoreapp3.1\P07.AssemblyInfoInputs.cache
+E:\Programing\SchoolWorkC#\oop project\P07\P07\obj\Debug\netcoreapp3.1\P07.AssemblyInfo.cs
+E:\Programing\SchoolWorkC#\oop project\P07\P07\obj\Debug\netcoreapp3.1\P07.csproj.CoreCompileInputs.cache
+E:\Programing\SchoolWorkC#\oop project\P07\P07\obj\Debug\netcoreapp3.1\P07.dll
+E:\Programing\SchoolWorkC#\oop project\P07\P07\obj\Debug\netcoreapp3.1\P07.pdb
+E:\Programing\SchoolWorkC#\oop project\P07\P07\obj\Debug\netcoreapp3.1\P07.genruntimeconfig.cache
